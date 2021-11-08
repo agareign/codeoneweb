@@ -76,4 +76,4 @@ print("소프트웨어개발방법론")
 
 
 
-[github](./그림1.png)
+![github](./그림1.png)
